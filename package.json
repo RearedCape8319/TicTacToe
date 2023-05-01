@@ -1,0 +1,27 @@
+{
+  "name": "tictactoe",
+  "version": "0.1.0",
+  "description": "TicTacToe game using minimax",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RearedCape8319/TicTacToe.git"
+  },
+  "keywords": [
+    "TicTacToe",
+    "Minimax"
+  ],
+  "author": "Matthew Cockcroft",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RearedCape8319/TicTacToe/issues"
+  },
+  "homepage": "https://github.com/RearedCape8319/TicTacToe#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
